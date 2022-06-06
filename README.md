@@ -1,4 +1,4 @@
-# ![https://github.com/emanuelmcp](https://github.com/emanuelmcp/emanuelmcp/blob/main/avatar.png) Hola, soy Emanuel
+# Hola, soy Emanuel
 ### Estudiante de programación y administración de sistemas informáticos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmcp&theme=tokyonight&layout=extend)](https://github.com/emanuelmcp)
