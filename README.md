@@ -24,6 +24,7 @@ Desde hace más o menos un año, empecé a aprender Python enfocado a desarrollo
 [![Wordpress](https://img.shields.io/badge/Wordpress-4479A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 [![Cisco](https://img.shields.io/badge/Cisco-4479A1?style=for-the-badge&logo=cisco&logoColor=white&labelColor=101010)]()
 </br>
+</br>
 Próximamente más...
 
 ## Contacta conmigo
