@@ -24,4 +24,4 @@ Próximamente más...
 
 ## Contacta conmigo
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emanuelmcp@gmail.com)
+[![Email](https://img.shields.io/badge/emanuelmcp@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emanuelmcp@gmail.com)
