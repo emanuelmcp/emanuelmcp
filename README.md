@@ -1,6 +1,6 @@
 # ¡Hola, soy Emanuel! 👋
 
-## Desarrollador Fullstack Apasionado por Java y TypeScript y un poquito de Go
+## Desarrollador Fullstack Apasionado por Java, TypeScript y un poquito de Go
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo y arquitectura de software, especializado en Java y TypeScript (aunque también estoy aprendiendo Go por mi cuenta). Me encanta crear soluciones innovadoras y eficientes.
 
