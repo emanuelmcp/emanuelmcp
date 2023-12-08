@@ -1,32 +1,60 @@
-# Hola, soy Emanuel
-### Estudiante de programación y administración de sistemas informáticos
+# ¡Hola, soy Emanuel! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmcp&theme=tokyonight&layout=extend)](https://github.com/emanuelmcp)
+## Desarrollador Fullstack Apasionado por Java y TypeScript y un poquito de Go
 
+Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo y arquitectura de software, especializado en Java y TypeScript (aunque también estoy aprendiendo Go por mi cuenta). Me encanta crear soluciones innovadoras y eficientes.
 
-Soy estudiante de los grados Superiores de administración de sistemas informáticos en Red y Desarrollo de Aplicaciones Multiplataforma.
+---
 
-Mi comienzo fue en el año 2009 cuando desarrollé mi primera página web con [**Joomla**](https://www.joomla.org/).
-Posteriormente aprendí [**Wordpress**](https://www.joomla.org/) y desde que inicié ASIR tengo un buen dominio de HTML, CSS, XML, SQL y Java.
+### 💻 Habilidades Técnicas
 
-Desde hace más o menos un año, empecé a aprender Python enfocado a desarrollo de servicios APIRest con el framework Django+DjangoRestFramework y actualmente por motivos laborales estoy aprendiendo SpringBoot y Angular para convertirme en un desarrollador FullStack.
+- **Lenguajes de Programación:** 
+  - Java (Spring Boot, Hibernate, PaperMC)
+  - TypeScript (Node.js, Vue3/Nuxt3, NestJS, Express)
+  - Go (Echo, stdlib)
+  - SQL (Sí, es un lenguaje de programación)
 
-## Habilidades:
-[![Java](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-FECC00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-7ED321?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-</br>
-[![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-[![Linux](https://img.shields.io/badge/Linux-4479A1?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
-[![Wordpress](https://img.shields.io/badge/Wordpress-4479A1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
-[![Cisco](https://img.shields.io/badge/Cisco-4479A1?style=for-the-badge&logo=cisco&logoColor=white&labelColor=101010)]()
-</br>
-</br>
-Próximamente más...
+- **Bases de Datos:** 
+  - MySQL
+  - MongoDB
+  - Oracle
+  - PostgreSQL
+  - Redis
 
-## Contacta conmigo
+- **Herramientas y Tecnologías:**
+  - Bash
+  - Docker
+  - Git
+  - Nx
+  - TurboRepo
+  - Maven
+  - Gradle
+  - Jest
+  - JUnit
+  - Github actions
 
-[![Email](https://img.shields.io/badge/emanuelmcp@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:emanuelmcp@gmail.com)
+---
+
+### 🌟 Proyectos Destacados
+
+1. **Portofolio**
+   - Es mi portfolio personal.
+   - Tecnologías utilizadas: Nuxt3, CI/CD con Netlify y la API de ChatGPT para el asistente virtual.
+   - [Link al repositorio](https://github.com/emanuelmcp/portfolio)
+
+2. **Ecosistema Kandor**
+   - Este es mi proyecto más ambicioso. Estoy creando una aplicación distribuida para poder gestionar el comportamiento del videojuego de Minecraft mediante un dashboard web. Poco a poco estoy escribiendo módulos... pero los repositorios son públicos para el que quiera darle seguimiento a este descabellado proyecto!!!
+   - Tecnologías utilizadas: Nuxt3 (Typescript), Node.js (NestJS como framework) y PaperMC (API escrita en Java para poder crear plugins para Minecraft).
+   - [Todos los repositorios prefijados con kandor-*](https://github.com/emanuelmcp)
+
+---
+
+### 📫 Contáctame
+- **Portfolio:** [Portfolio](https://emanuelcarrero.es)
+- **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/emanuel-carrero/)
+- **Correo Electrónico:** [emanuelmcp@gmail.com](mailto:emanuelmcp@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil! Siéntete libre de echar un vistazo a mis repositorios y no dudes en contactarme para cualquier consulta o colaboración.
+
