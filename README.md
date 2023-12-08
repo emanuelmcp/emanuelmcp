@@ -45,7 +45,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo y arquitectur
 2. **Ecosistema Kandor**
    - Este es mi proyecto más ambicioso. Estoy creando una aplicación distribuida para poder gestionar el comportamiento del videojuego de Minecraft mediante un dashboard web. Poco a poco estoy escribiendo módulos... pero los repositorios son públicos para el que quiera darle seguimiento a este descabellado proyecto!!!
    - Tecnologías utilizadas: Nuxt3 (Typescript), Node.js (NestJS como framework) y PaperMC (API escrita en Java para poder crear plugins para Minecraft).
-   - [Todos los repositorios prefijados con kandor-*](https://github.com/emanuelmcp](https://github.com/emanuelmcp?tab=repositories)
+   - [Todos los repositorios prefijados con kandor-*](https://github.com/emanuelmcp?tab=repositories)
 
 ---
 
